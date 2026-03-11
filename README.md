@@ -39,7 +39,7 @@
 &nbsp;
 [![CORSAPI](https://github-readme-stats.vercel.app/api/pin/?username=SzeMeng76&repo=CORSAPI&theme=tokyonight&hide_border=true)](https://github.com/SzeMeng76/CORSAPI)
 
-[![Domobot](https://github-readme-stats.vercel.app/api/pin/?username=SzeMeng76/domobot&theme=tokyonight&hide_border=true)](https://github.com/SzeMeng76/domobot)
+[![domobot](https://github-readme-stats.vercel.app/api/pin/?username=SzeMeng76&repo=domobot&theme=tokyonight&hide_border=true)](https://github.com/SzeMeng76/domobot)
 &nbsp;
 [![ChatGPT-Telegram-Workers](https://github-readme-stats.vercel.app/api/pin/?username=SzeMeng76&repo=ChatGPT-Telegram-Workers&theme=tokyonight&hide_border=true)](https://github.com/SzeMeng76/ChatGPT-Telegram-Workers)
 
